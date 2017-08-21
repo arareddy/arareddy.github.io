@@ -23,6 +23,24 @@
     </item>
     
     <item>
+      <title>Shifting my site</title>
+      <link>https://aravindreddy.org/post/shifting-my-site/</link>
+      <pubDate>Sat, 12 Aug 2017 00:22:01 +0530</pubDate>
+      
+      <guid>https://aravindreddy.org/post/shifting-my-site/</guid>
+      <description>&lt;p&gt;Hey folks, I thought about this a lot and finally have decided to shift my blog to Jekyll based Github pages due to a couple of reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It&amp;rsquo;s completely free(until a limit of 1GB). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck.&lt;/li&gt;
+&lt;li&gt;I bought a domain name for myself - aravindreddy.org and it seems like this is the best time for me to make a switch.&lt;/li&gt;
+&lt;li&gt;According to multiple online sources, Wordpress is outdated and is a pain to maintain, especially when you want to have your own domain name and custom servers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So, I guess this will be one of my last posts on the Wordpress platform. Hopefully, I&amp;rsquo;ll successfully shift my all my past blog entries to my new Jekyll based, Github hosted site :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Customizing the homepage with widgets</title>
       <link>https://aravindreddy.org/post/widgets/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
