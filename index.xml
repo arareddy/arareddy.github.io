@@ -50,5 +50,53 @@
 </description>
     </item>
     
+    <item>
+      <title>GRE Craxx Algo</title>
+      <link>https://aravindreddy.org/post/gre-craxx-algo/</link>
+      <pubDate>Thu, 29 Jun 2017 00:36:51 +0530</pubDate>
+      
+      <guid>https://aravindreddy.org/post/gre-craxx-algo/</guid>
+      <description>&lt;p&gt;Since I was probably the first person in my batch of ~830 students at IIT Kanpur to have taken the GRE, I keep receiving a barrage of questions from my both my batchmates and juniors regarding how to &amp;lsquo;crack&amp;rsquo; the GRE. So, here goes the Algo which I employed to improve my score from 324 to 332 within ~10 days of preparation while studying seriously(sorta) for around 3-4 hours a day:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Download the official &lt;a href=&#34;https://www.ets.org/gre/revised_general/prepare/powerprep/&#34; target=&#34;_blank&#34;&gt;Practice Test&lt;/a&gt; from the GRE website and take the exam using a timer.&lt;/li&gt;
+&lt;li&gt;Decide your target score. As far as I know, a bad GRE score hurts your chances of selection but a great score doesn&amp;rsquo;t improve your chances. As a basic guideline, any score below 320 will hurt your chances of getting into a top 100 university and any score above 330 should be fine (&lt;a href=&#34;https://www.ets.org/s/gre/pdf/gre_guide_table1a.pdf&#34; target=&#34;_blank&#34;&gt;here&amp;rsquo;s&lt;/a&gt; the percentile chart).&lt;/li&gt;
+&lt;li&gt;The verbal section is the one which requires the most preparation (for most Asian students). So, I&amp;rsquo;ll focus on that first&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s no set syllabus for the verbal section. You&amp;rsquo;ll have to improve your vocab in any way possible.&lt;/li&gt;
+&lt;li&gt;Starting now, make a habit of looking up the meaning of every unknown word you encounter. This will help you immensely because you&amp;rsquo;ll learn holistically.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll give a list of books which I used to prepare. But as I stated earlier, there&amp;rsquo;s no set syllabus and there&amp;rsquo;s a myriad of books out there which will increase your score. Pick a couple of them and make sure you complete them/revise them regularly before moving onto more books:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.in/dp/9332537860/ref=cm_sw_r_cp_dp_T1_qarvzb42BC29H&#34; target=&#34;_blank&#34;&gt;Manhattan review: The GRE Complete Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.in/dp/B008BA9CUA/ref=cm_sw_r_cp_dp_T1_6brvzb75DPJ4B&#34; target=&#34;_blank&#34;&gt;GRE Vocab Capacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GRE Vocab Flash cards app from Magoosh(iOS/Android) - Definitely do the basic ones.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;For the Quant section, you can choose to prepare from the Manhattan review(if you think it&amp;rsquo;ll improve your score). I got a perfect score on the first practice test. So, I didn&amp;rsquo;t bother to prepare for the Quant section.&lt;/li&gt;
+&lt;li&gt;The AWA section is a little tricky. I didn&amp;rsquo;t prepare much but I felt that I wrote one good essay and one decent essay and so I expected a 4.&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;(they give you the average of both the sections, 6 points for each essay) but I only got a score of 4. Since this is subjective, it can get really arbit. I would suggest reading the guidelines in the &amp;ldquo;Official Guide to the GRE Verbal Reasoning Practice Questions Volume 1&amp;rdquo; and then picking topics from the &lt;a href=&#34;https://www.ets.org/gre/revised_general/prepare/analytical_writing/&#34; target=&#34;_blank&#34;&gt;GRE website&lt;/a&gt; and practicing with a timer.&lt;/li&gt;
+&lt;li&gt;On the day before your GRE date, complete the second practice test. This should give you a good estimate of your score.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Relative Age Effect</title>
+      <link>https://aravindreddy.org/post/the-relative-age-effect/</link>
+      <pubDate>Wed, 24 May 2017 00:50:42 +0530</pubDate>
+      
+      <guid>https://aravindreddy.org/post/the-relative-age-effect/</guid>
+      <description>&lt;p&gt;Today, I came across a very interesting article on Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Relative_age_effect&#34; target=&#34;_blank&#34;&gt;Relative age effect&lt;/a&gt;. It looks like I have been positively affected by it(I was born in July and school sessions generally start in June in India) and I&amp;rsquo;m sorry for the millions of people negatively affected by it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goldwasser _/\_</title>
+      <link>https://aravindreddy.org/post/goldwasser/</link>
+      <pubDate>Tue, 14 Feb 2017 00:54:30 +0530</pubDate>
+      
+      <guid>https://aravindreddy.org/post/goldwasser/</guid>
+      <description>&lt;p&gt;Last semester, I stumbled upon &amp;lsquo;interactive proofs&amp;rsquo; and read the word &amp;lsquo;Goldwasser&amp;rsquo; as one of the authors of a paper related to interactive proofs(turns out she was one of the inventors of interactive proofs :P ). Although there were other authors as well, this particular name struck in my mind. Today, after some arbitrary DFS and BFS&amp;rsquo;ing through the internet, I read about Prof. Shafi Goldwasser &lt;a href=&#34;http://amturing.acm.org/award_winners/goldwasser_8627889.cfm&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I don&amp;rsquo;t have words to describe the IMMENSE respect I now have for her after reading the article. I really encourage readers to visit that link.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
