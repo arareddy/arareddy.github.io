@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nerd Interest on Aravind Reddy</title>
-    <link>https://aravindreddy.org/tags/nerd-interest/</link>
+    <link>http://aravindreddy.org/tags/nerd-interest/</link>
     <description>Recent content in Nerd Interest on Aravind Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Ugly Duckling theorem</title>
-      <link>https://aravindreddy.org/post/ugly-duckling-theorem/</link>
+      <link>http://aravindreddy.org/post/ugly-duckling-theorem/</link>
       <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://aravindreddy.org/post/ugly-duckling-theorem/</guid>
+      <guid>http://aravindreddy.org/post/ugly-duckling-theorem/</guid>
       <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
 
 &lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>The Relative Age Effect</title>
-      <link>https://aravindreddy.org/post/the-relative-age-effect/</link>
+      <link>http://aravindreddy.org/post/the-relative-age-effect/</link>
       <pubDate>Wed, 24 May 2017 00:50:42 +0530</pubDate>
       
-      <guid>https://aravindreddy.org/post/the-relative-age-effect/</guid>
+      <guid>http://aravindreddy.org/post/the-relative-age-effect/</guid>
       <description>&lt;p&gt;Today, I came across a very interesting article on Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Relative_age_effect&#34; target=&#34;_blank&#34;&gt;Relative age effect&lt;/a&gt;. It looks like I have been positively affected by it(I was born in July and school sessions generally start in June in India) and I&amp;rsquo;m sorry for the millions of people negatively affected by it.&lt;/p&gt;
 </description>
     </item>
