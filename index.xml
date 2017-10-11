@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Research Internship advice</title>
+      <link>http://aravindreddy.org/post/research-internships2k17/</link>
+      <pubDate>Wed, 11 Oct 2017 23:06:09 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/research-internships2k17/</guid>
+      <description>&lt;p&gt;Note: This post is mainly meant for students at IIT Kanpur. I will be using some campus specific lingo here.&lt;/p&gt;
+
+&lt;p&gt;Now that it is out of the way, let me introduce myself. I am a Y14 CSE student.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Computer Networks</title>
       <link>http://aravindreddy.org/post/computer-networks/</link>
       <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
@@ -51,7 +63,7 @@
       <description>&lt;p&gt;Hey folks, I thought about this a lot and finally have decided to shift my blog to Jekyll based Github pages due to a couple of reasons:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;It&amp;rsquo;s completely free(until a limit of 1GB). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s completely free(until a limit of 1GB is reached). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck.&lt;/li&gt;
 &lt;li&gt;I bought a domain name for myself - aravindreddy.org and it seems like this is the best time for me to make a switch.&lt;/li&gt;
 &lt;li&gt;According to multiple online sources, Wordpress is outdated and is a pain to maintain, especially when you want to have your own domain name and custom servers.&lt;/li&gt;
 &lt;/ol&gt;
