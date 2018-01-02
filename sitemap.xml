@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>http://aravindreddy.org/post/advice-budding-theorist/</loc>
-      <lastmod>2017-11-27T05:20:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://aravindreddy.org/post/computer-networks/</loc>
       <lastmod>2017-09-11T04:05:18+05:30</lastmod>
     </url>
@@ -34,24 +25,6 @@
     
       <loc>http://aravindreddy.org/post/ugly-duckling-theorem/</loc>
       <lastmod>2017-08-21T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/shifting-my-site/</loc>
-      <lastmod>2017-08-12T00:22:01+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/500-mile-email/</loc>
-      <lastmod>2017-07-07T00:28:00+05:30</lastmod>
     </url>
     
   
@@ -95,7 +68,7 @@
     
     <url>
     
-      <loc>http://aravindreddy.org/post/</loc>
+      <loc>http://aravindreddy.org/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,8 +77,100 @@
     
     <url>
     
+      <loc>http://aravindreddy.org/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/publication/person-re-identification/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://aravindreddy.org/</loc>
-      <lastmod>2017-08-20T23:30:00+00:00</lastmod>
+      <lastmod>2017-12-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -115,6 +180,36 @@
     <url>
     
       <loc>http://aravindreddy.org/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,7 +238,18 @@
     
     <url>
     
+      <loc>http://aravindreddy.org/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://aravindreddy.org/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
