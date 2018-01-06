@@ -11,12 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Healthy Eating 2018</title>
+      <link>http://aravindreddy.org/post/healthy-eating-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 15:49:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/healthy-eating-2018/</guid>
+      <description>&lt;p&gt;It is that time of the year where we are bombarded by New years resolutions I don&amp;rsquo;t have a resolution to make but I want to share something similar. In the course of one single semester(Fall 2017), I gained around 6kgs. From being around 72kgs, my body weight increased to 78kgs. Before I left for Paris my weight was even lesser, it was something around 69 kilos. I came back home to Hyderabad, after one of the most straining, most sleep deprived, most  sugar laden periods of my life. This is despite me watching several videos  earlier on how sugar was as addictive(if not more) than cocaine. I&amp;rsquo;m refreshing my memory and also adding some more links.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Y647tNm8nTI&#34; target=&#34;_blank&#34;&gt;Fed up&lt;/a&gt; - the original is on Netflix.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/wTNlHyjip94&#34; target=&#34;_blank&#34;&gt;Why we can&amp;rsquo;t stop eating unhealthy foods&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advice for the budding theorist</title>
+      <link>http://aravindreddy.org/post/advice-budding-theorist/</link>
+      <pubDate>Mon, 27 Nov 2017 05:20:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/advice-budding-theorist/</guid>
+      <description>&lt;p&gt;Check out &lt;a href=&#34;https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; interesting link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Computer Networks</title>
       <link>http://aravindreddy.org/post/computer-networks/</link>
       <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
       
       <guid>http://aravindreddy.org/post/computer-networks/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m reading a book on &lt;a href=&#34;http://www-net.cs.umass.edu/kurose/ebook/text/toc.htm&#34; target=&#34;_blank&#34;&gt;Computer Networks&lt;/a&gt; right now for a course and I feel awesome getting to know about tonnes of stuff which I&amp;rsquo;ve been using throughout my life 😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emmy Noether</title>
+      <link>http://aravindreddy.org/post/emmy-noether/</link>
+      <pubDate>Mon, 04 Sep 2017 23:53:36 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/emmy-noether/</guid>
+      <description>&lt;p&gt;While I was reading about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Translation_operator_(quantum_mechanics)&#34; target=&#34;_blank&#34;&gt;Translation operator&lt;/a&gt; today, I stumbled upon the wiki for &lt;a href=&#34;https://en.wikipedia.org/wiki/Emmy_Noether&#34; target=&#34;_blank&#34;&gt;Emmy Noether&lt;/a&gt; - famous for &amp;ldquo;Noether&amp;rsquo;s theorem&amp;rdquo; which tells us that conservation laws follow from the symmetry properties of nature. It was interesting to note that she had worked at a German institute for seven years without pay because at that time(~1910), women were largely excluded from academic positions. This was comforting to me because I was feeling sad about the fact that I only started learning CS after I started my undergrad. It made me feel that I should accept the fact that nobody is on an equal footing when it comes to anything in life and this is what precisely defines our distinct perspective of life.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,6 +73,34 @@
       <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
 
 &lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shifting my site</title>
+      <link>http://aravindreddy.org/post/shifting-my-site/</link>
+      <pubDate>Sat, 12 Aug 2017 00:22:01 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/shifting-my-site/</guid>
+      <description>&lt;p&gt;Hey folks, I thought about this a lot and finally have decided to shift my blog to Jekyll based Github pages due to a couple of reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It&amp;rsquo;s completely free(until a limit of 1GB is reached). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck.&lt;/li&gt;
+&lt;li&gt;I bought a domain name for myself - aravindreddy.org and it seems like this is the best time for me to make a switch.&lt;/li&gt;
+&lt;li&gt;According to multiple online sources, Wordpress is outdated and is a pain to maintain, especially when you want to have your own domain name and custom servers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So, I guess this will be one of my last posts on the Wordpress platform. Hopefully, I&amp;rsquo;ll successfully shift my all my past blog entries to my new Jekyll based, Github hosted site :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>500 Mile Email</title>
+      <link>http://aravindreddy.org/post/500-mile-email/</link>
+      <pubDate>Fri, 07 Jul 2017 00:28:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/post/500-mile-email/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ibiblio.org/harris/500milemail.html&#34; target=&#34;_blank&#34;&gt;This&lt;/a&gt; is epic stuff!! You should surely check it out.&lt;/p&gt;
 </description>
     </item>
     
@@ -133,60 +195,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://aravindreddy.org/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll to Hugo</title>
-      <link>http://aravindreddy.org/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/migrate-from-jekyll/</guid>
-      <description>
-
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;should become&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ static/
-        ▾ images/
-            logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;fix-content&#34;&gt;Fix content&lt;/h2&gt;
-
-&lt;p&gt;Depending on the amount of customization that was done for each post in Jekyll, this step will require more or less effort. There are no hard and fast rules here except that &lt;code&gt;hugo server --watch&lt;/code&gt; and the Hugo Academic example site are your friends. Test your changes and fix errors as needed.&lt;/p&gt;
-
-&lt;h2 id=&#34;publish&#34;&gt;Publish&lt;/h2&gt;
-
-&lt;p&gt;The default is for Jekyll to publish the website to a &lt;code&gt;_site&lt;/code&gt; directory, whereas Hugo publishes to a &lt;code&gt;public&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
-
-&lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://aravindreddy.org/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

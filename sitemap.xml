@@ -5,8 +5,35 @@
     
     <url>
     
+      <loc>http://aravindreddy.org/post/healthy-eating-2018/</loc>
+      <lastmod>2018-01-01T15:49:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/advice-budding-theorist/</loc>
+      <lastmod>2017-11-27T05:20:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://aravindreddy.org/post/computer-networks/</loc>
       <lastmod>2017-09-11T04:05:18+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/emmy-noether/</loc>
+      <lastmod>2017-09-04T23:53:36+05:30</lastmod>
     </url>
     
   
@@ -25,6 +52,24 @@
     
       <loc>http://aravindreddy.org/post/ugly-duckling-theorem/</loc>
       <lastmod>2017-08-21T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/shifting-my-site/</loc>
+      <lastmod>2017-08-12T00:22:01+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/500-mile-email/</loc>
+      <lastmod>2017-07-07T00:28:00+05:30</lastmod>
     </url>
     
   
@@ -131,15 +176,6 @@
     
     <url>
     
-      <loc>http://aravindreddy.org/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://aravindreddy.org/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -208,16 +244,6 @@
     
     <url>
     
-      <loc>http://aravindreddy.org/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://aravindreddy.org/tags/nerd-interest/</loc>
       <lastmod>2017-08-21T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -260,6 +286,16 @@
     
       <loc>http://aravindreddy.org/tags/random-advice/</loc>
       <lastmod>2017-06-29T00:36:51+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/tags/random-observations/</loc>
+      <lastmod>2017-09-04T23:53:36+05:30</lastmod>
       <priority>0</priority>
     </url>
     
