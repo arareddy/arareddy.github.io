@@ -113,6 +113,24 @@
     
     <url>
     
+      <loc>http://aravindreddy.org/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/</loc>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://aravindreddy.org/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -133,24 +151,6 @@
     
       <loc>http://aravindreddy.org/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -215,7 +215,7 @@
     <url>
     
       <loc>http://aravindreddy.org/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
