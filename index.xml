@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gender101</title>
+      <link>http://aravindreddy.org/post/gender101/</link>
+      <pubDate>Wed, 14 Nov 2018 19:15:59 -0600</pubDate>
+      
+      <guid>http://aravindreddy.org/post/gender101/</guid>
+      <description>&lt;p&gt;I just read an &lt;a href=&#34;https://www.nytimes.com/2013/10/06/magazine/why-are-there-still-so-few-women-in-science.html&#34; target=&#34;_blank&#34;&gt;NYTimes article&lt;/a&gt; titled &amp;ldquo;Why are there Still So Few Women in Science?&amp;rdquo;. I thought that I had an idea about gender bias in academia but I was very wrong. This article definitely made an impact on me and I encourage everybody to have a look at it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Generalization theory for Deep Learning</title>
       <link>http://aravindreddy.org/talk/20181025/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 -0500</pubDate>
@@ -184,15 +194,6 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://aravindreddy.org/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
