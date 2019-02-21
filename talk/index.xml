@@ -11,6 +11,16 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
+      <link>http://aravindreddy.org/talk/20190214/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190214/</guid>
+      <description>&lt;p&gt;The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled &lt;a href=&#34;https://arxiv.org/abs/1305.1681&#34; target=&#34;_blank&#34;&gt;Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut&lt;/a&gt; by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by &lt;a href=&#34;https://youtu.be/QQPFAkNAhUE&#34; target=&#34;_blank&#34;&gt;Tim Roughgarden&amp;rsquo;s lecture&lt;/a&gt; on the same topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Generalization theory for Deep Learning</title>
       <link>http://aravindreddy.org/talk/20181025/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 -0500</pubDate>

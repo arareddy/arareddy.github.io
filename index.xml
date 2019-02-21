@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
+      <link>http://aravindreddy.org/talk/20190214/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190214/</guid>
+      <description>&lt;p&gt;The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled &lt;a href=&#34;https://arxiv.org/abs/1305.1681&#34; target=&#34;_blank&#34;&gt;Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut&lt;/a&gt; by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by &lt;a href=&#34;https://youtu.be/QQPFAkNAhUE&#34; target=&#34;_blank&#34;&gt;Tim Roughgarden&amp;rsquo;s lecture&lt;/a&gt; on the same topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Why are there so few women in science?</title>
       <link>http://aravindreddy.org/post/gender101/</link>
       <pubDate>Wed, 14 Nov 2018 19:15:59 -0600</pubDate>
@@ -175,24 +185,6 @@
       
       <guid>http://aravindreddy.org/post/goldwasser/</guid>
       <description>&lt;p&gt;Last semester, I stumbled upon &amp;lsquo;interactive proofs&amp;rsquo; and read the word &amp;lsquo;Goldwasser&amp;rsquo; as one of the authors of a paper related to interactive proofs(turns out she was one of the inventors of interactive proofs 😜 ). Although there were other authors as well, this particular name remained stuck in my mind(south Indians have traditionally been obsessed with gold). Today, after some arbitrary internet surfing, I read about Prof. Shafi Goldwasser &lt;a href=&#34;http://amturing.acm.org/award_winners/goldwasser_8627889.cfm&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I don&amp;rsquo;t have words to describe the IMMENSE respect I now have for her after reading the article. I really encourage readers to visit the link.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://aravindreddy.org/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
