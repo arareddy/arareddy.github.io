@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Contrastive Unsupervised Representation Learning</title>
+      <link>http://aravindreddy.org/talk/20190522/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190522/</guid>
+      <description>&lt;p&gt;The content for the talk was mostly taken from one of Arora et.al&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2019/03/19/CURL/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and their paper &lt;a href=&#34;https://arxiv.org/abs/1902.09229&#34; target=&#34;_blank&#34;&gt;A Theoretical Analysis of Contrastive Unsupervised Representation Learning&lt;/a&gt;. The first time I came across this paper was through a &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org/speaker/sanjeev-arora/&#34; target=&#34;_blank&#34;&gt;plenary talk&lt;/a&gt; given by Sanjeev Arora at &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org&#34; target=&#34;_blank&#34;&gt;ALT 2019&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
       <link>http://aravindreddy.org/talk/20190214/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 -0600</pubDate>
@@ -175,16 +185,6 @@
       
       <guid>http://aravindreddy.org/post/the-relative-age-effect/</guid>
       <description>&lt;p&gt;Today, I came across a very interesting article on Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Relative_age_effect&#34; target=&#34;_blank&#34;&gt;Relative age effect&lt;/a&gt;. It looks like I have been positively affected by it(I was born in July and school sessions generally start in June in India) and I&amp;rsquo;m sorry for the millions of people negatively affected by it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Goldwasser _/\_</title>
-      <link>http://aravindreddy.org/post/goldwasser/</link>
-      <pubDate>Tue, 14 Feb 2017 00:54:30 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/goldwasser/</guid>
-      <description>&lt;p&gt;Last semester, I stumbled upon &amp;lsquo;interactive proofs&amp;rsquo; and read the word &amp;lsquo;Goldwasser&amp;rsquo; as one of the authors of a paper related to interactive proofs(turns out she was one of the inventors of interactive proofs 😜 ). Although there were other authors as well, this particular name remained stuck in my mind(south Indians have traditionally been obsessed with gold). Today, after some arbitrary internet surfing, I read about Prof. Shafi Goldwasser &lt;a href=&#34;http://amturing.acm.org/award_winners/goldwasser_8627889.cfm&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. I don&amp;rsquo;t have words to describe the IMMENSE respect I now have for her after reading the article. I really encourage readers to visit the link.&lt;/p&gt;
 </description>
     </item>
     
