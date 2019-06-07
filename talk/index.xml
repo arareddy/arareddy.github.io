@@ -11,6 +11,16 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Markov Chains and Random Walks on Networks</title>
+      <link>http://aravindreddy.org/talk/20190531/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190531/</guid>
+      <description>&lt;p&gt;The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1,2, and 8 of the book &lt;a href=&#34;https://bookstore.ams.org/mbk-107&#34; target=&#34;_blank&#34;&gt;Markov Chains and Mixing Times&lt;/a&gt; by David Levin and Yuval Peres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contrastive Unsupervised Representation Learning</title>
       <link>http://aravindreddy.org/talk/20190522/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 -0500</pubDate>

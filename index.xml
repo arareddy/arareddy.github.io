@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Markov Chains and Random Walks on Networks</title>
+      <link>http://aravindreddy.org/talk/20190531/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190531/</guid>
+      <description>&lt;p&gt;The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1,2, and 8 of the book &lt;a href=&#34;https://bookstore.ams.org/mbk-107&#34; target=&#34;_blank&#34;&gt;Markov Chains and Mixing Times&lt;/a&gt; by David Levin and Yuval Peres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contrastive Unsupervised Representation Learning</title>
       <link>http://aravindreddy.org/talk/20190522/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 -0500</pubDate>
@@ -175,16 +185,6 @@
 &lt;li&gt;The AWA section is a little tricky. I didn&amp;rsquo;t prepare much but I felt that I wrote one good essay and one decent essay and so I expected a 4.5 out of 6(they give you the average of both the sections, 6 points for each essay) but I only got a score of 4. Since this is subjective, it can get really arbit. I would suggest reading the guidelines in the &amp;ldquo;Official Guide to the GRE Verbal Reasoning Practice Questions Volume 1&amp;rdquo; and then picking topics from the &lt;a href=&#34;https://www.ets.org/gre/revised_general/prepare/analytical_writing/&#34; target=&#34;_blank&#34;&gt;GRE website&lt;/a&gt; and practicing with a timer.&lt;/li&gt;
 &lt;li&gt;On the day before your GRE date, complete the second practice test. This should give you a good estimate of your score.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Relative Age Effect</title>
-      <link>http://aravindreddy.org/post/the-relative-age-effect/</link>
-      <pubDate>Wed, 24 May 2017 00:50:42 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/the-relative-age-effect/</guid>
-      <description>&lt;p&gt;Today, I came across a very interesting article on Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Relative_age_effect&#34; target=&#34;_blank&#34;&gt;Relative age effect&lt;/a&gt;. It looks like I have been positively affected by it(I was born in July and school sessions generally start in June in India) and I&amp;rsquo;m sorry for the millions of people negatively affected by it.&lt;/p&gt;
 </description>
     </item>
     
