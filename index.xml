@@ -11,9 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>High Dimensional Expanders</title>
+      <link>http://aravindreddy.org/talk/20191121/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20191121/</guid>
+      <description>&lt;p&gt;In this talk, we will give an introduction to &lt;em&gt;High Dimensional Expanders&lt;/em&gt;, an area which has seen immense interest recently from the TCS community. Specifically, we will discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_simplicial_complex&#34; target=&#34;_blank&#34;&gt;Simplicial Complexes&lt;/a&gt;, Local Spectral Expanders, and Random walks on Simplicial Complexes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cup Games</title>
+      <link>http://aravindreddy.org/talk/20190821/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20190821/</guid>
+      <description>&lt;p&gt;In this talk, we will provide an introduction to cup games and discuss some recent results and techniques from a &lt;a href=&#34;https://arxiv.org/abs/1904.02861&#34; target=&#34;_blank&#34;&gt;STOC 2019 paper&lt;/a&gt; by Bender et.al.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Markov Chains and Random Walks on Networks</title>
       <link>http://aravindreddy.org/talk/20190531/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0530</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190531/</guid>
       <description>&lt;p&gt;The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1, 2, and 8 of the book &lt;a href=&#34;https://bookstore.ams.org/mbk-107&#34; target=&#34;_blank&#34;&gt;Markov Chains and Mixing Times&lt;/a&gt; by David Levin and Yuval Peres.&lt;/p&gt;
@@ -23,7 +43,7 @@
     <item>
       <title>Contrastive Unsupervised Representation Learning</title>
       <link>http://aravindreddy.org/talk/20190522/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0530</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190522/</guid>
       <description>&lt;p&gt;The content for the talk was mostly taken from one of Arora et.al&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2019/03/19/CURL/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and their paper &lt;a href=&#34;https://arxiv.org/abs/1902.09229&#34; target=&#34;_blank&#34;&gt;A Theoretical Analysis of Contrastive Unsupervised Representation Learning&lt;/a&gt;. The first time I came across this paper was through a &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org/speaker/sanjeev-arora/&#34; target=&#34;_blank&#34;&gt;plenary talk&lt;/a&gt; given by Sanjeev Arora at &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org&#34; target=&#34;_blank&#34;&gt;ALT 2019&lt;/a&gt;.&lt;/p&gt;
@@ -33,7 +53,7 @@
     <item>
       <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
       <link>http://aravindreddy.org/talk/20190214/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0530</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190214/</guid>
       <description>&lt;p&gt;The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled &lt;a href=&#34;https://arxiv.org/abs/1305.1681&#34; target=&#34;_blank&#34;&gt;Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut&lt;/a&gt; by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by &lt;a href=&#34;https://youtu.be/QQPFAkNAhUE&#34; target=&#34;_blank&#34;&gt;Tim Roughgarden&amp;rsquo;s lecture&lt;/a&gt; on the same topic.&lt;/p&gt;
@@ -53,7 +73,7 @@
     <item>
       <title>Generalization theory for Deep Learning</title>
       <link>http://aravindreddy.org/talk/20181025/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0530</pubDate>
       
       <guid>http://aravindreddy.org/talk/20181025/</guid>
       <description>&lt;p&gt;The content for the talk was mostly taken from one of Sanjeev Arora&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2017/12/08/generalization1/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and &lt;a href=&#34;https://arxiv.org/abs/1611.03530&#34; target=&#34;_blank&#34;&gt;Understanding deep learning requires re-thinking generalization&lt;/a&gt;, which won a Best Paper award at ICLR 2017.&lt;/p&gt;
@@ -147,44 +167,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;So, I guess this will be one of my last posts on the Wordpress platform. Hopefully, I&amp;rsquo;ll successfully shift my all my past blog entries to my new Jekyll based, Github hosted site :)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>500 Mile Email</title>
-      <link>http://aravindreddy.org/post/500-mile-email/</link>
-      <pubDate>Fri, 07 Jul 2017 00:28:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/500-mile-email/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.ibiblio.org/harris/500milemail.html&#34; target=&#34;_blank&#34;&gt;This&lt;/a&gt; is epic stuff!! You should surely check it out.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GRE Craxx Algo</title>
-      <link>http://aravindreddy.org/post/gre-craxx-algo/</link>
-      <pubDate>Thu, 29 Jun 2017 00:36:51 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/gre-craxx-algo/</guid>
-      <description>&lt;p&gt;Since I was probably the first person in my batch of ~830 students at IIT Kanpur to have taken the GRE, I keep receiving a barrage of questions from my both my batchmates and juniors regarding how to &amp;lsquo;crack&amp;rsquo; the GRE. So, here goes the Algo which I employed to improve my score from 324 to 332 within ~10 days of preparation while studying seriously(sorta) for around 3-4 hours a day:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Download the official &lt;a href=&#34;https://www.ets.org/gre/revised_general/prepare/powerprep/&#34; target=&#34;_blank&#34;&gt;Practice Test&lt;/a&gt; from the GRE website and take the exam using a timer.&lt;/li&gt;
-&lt;li&gt;Decide your target score. As far as I know, a bad GRE score hurts your chances of selection but a great score doesn&amp;rsquo;t improve your chances. As a basic guideline, any score below 320 will hurt your chances of getting into a top 100 university and any score above 330 should be fine (&lt;a href=&#34;https://www.ets.org/s/gre/pdf/gre_guide_table1a.pdf&#34; target=&#34;_blank&#34;&gt;here&amp;rsquo;s&lt;/a&gt; the percentile chart).&lt;/li&gt;
-&lt;li&gt;The verbal section is the one which requires the most preparation (for most Asian students). So, I&amp;rsquo;ll focus on that first&lt;/li&gt;
-&lt;li&gt;There&amp;rsquo;s no set syllabus for the verbal section. You&amp;rsquo;ll have to improve your vocab in any way possible.&lt;/li&gt;
-&lt;li&gt;Starting now, make a habit of looking up the meaning of every unknown word you encounter. This will help you immensely because you&amp;rsquo;ll learn holistically.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ll give a list of books which I used to prepare. But as I stated earlier, there&amp;rsquo;s no set syllabus and there&amp;rsquo;s a myriad of books out there which will increase your score. Pick a couple of them and make sure you complete them/revise them regularly before moving onto more books:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.in/dp/9332537860/ref=cm_sw_r_cp_dp_T1_qarvzb42BC29H&#34; target=&#34;_blank&#34;&gt;Manhattan review: The GRE Complete Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.in/dp/B008BA9CUA/ref=cm_sw_r_cp_dp_T1_6brvzb75DPJ4B&#34; target=&#34;_blank&#34;&gt;GRE Vocab Capacity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GRE Vocab Flash cards app from Magoosh(iOS/Android) - Definitely do the basic ones.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;For the Quant section, you can choose to prepare from the Manhattan review(if you think it&amp;rsquo;ll improve your score). I got a perfect score on the first practice test. So, I didn&amp;rsquo;t bother to prepare for the Quant section.&lt;/li&gt;
-&lt;li&gt;The AWA section is a little tricky. I didn&amp;rsquo;t prepare much but I felt that I wrote one good essay and one decent essay and so I expected a 4.5 out of 6(they give you the average of both the sections, 6 points for each essay) but I only got a score of 4. Since this is subjective, it can get really arbit. I would suggest reading the guidelines in the &amp;ldquo;Official Guide to the GRE Verbal Reasoning Practice Questions Volume 1&amp;rdquo; and then picking topics from the &lt;a href=&#34;https://www.ets.org/gre/revised_general/prepare/analytical_writing/&#34; target=&#34;_blank&#34;&gt;GRE website&lt;/a&gt; and practicing with a timer.&lt;/li&gt;
-&lt;li&gt;On the day before your GRE date, complete the second practice test. This should give you a good estimate of your score.&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

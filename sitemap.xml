@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>http://aravindreddy.org/talk/20191121/</loc>
+      <lastmod>2019-11-21T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/talk/20190821/</loc>
+      <lastmod>2019-08-21T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://aravindreddy.org/talk/20190531/</loc>
-      <lastmod>2019-05-31T00:00:00-05:00</lastmod>
+      <lastmod>2019-05-31T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -15,7 +33,7 @@
     <url>
     
       <loc>http://aravindreddy.org/talk/20190522/</loc>
-      <lastmod>2019-05-21T00:00:00-05:00</lastmod>
+      <lastmod>2019-05-21T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -24,7 +42,7 @@
     <url>
     
       <loc>http://aravindreddy.org/talk/20190214/</loc>
-      <lastmod>2019-02-14T00:00:00-06:00</lastmod>
+      <lastmod>2019-02-14T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -42,7 +60,7 @@
     <url>
     
       <loc>http://aravindreddy.org/talk/20181025/</loc>
-      <lastmod>2018-10-25T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-25T00:00:00+05:30</lastmod>
     </url>
     
   
@@ -158,15 +176,6 @@
     
     <url>
     
-      <loc>http://aravindreddy.org/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://aravindreddy.org/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -187,6 +196,15 @@
     
       <loc>http://aravindreddy.org/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://aravindreddy.org/post/</loc>
+      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
   
