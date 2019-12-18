@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Space Bounded Complexity classes and Derandomization</title>
+      <link>http://aravindreddy.org/talk/20191203/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/talk/20191203/</guid>
+      <description>&lt;p&gt;In this talk, we will give an introduction to Space Bounded Complexity classes and give an overview of $BPL \subseteq \text{SPACE}(\log^2 n)$ result by Nisan. For space bounded complexity classes, we will follow the &lt;a href=&#34;https://lucatrevisan.github.io/teaching/cs172-15/notenl.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Luca Trevisan and for the $BPL \subseteq \text{SPACE}(\log^2 n)$ result, we will follow the &lt;a href=&#34;http://www.cs.umd.edu/~jkatz/complexity/f11/lecture27.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Jonathan Katz.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>High Dimensional Expanders</title>
       <link>http://aravindreddy.org/talk/20191121/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0530</pubDate>
@@ -149,24 +159,6 @@
       <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
 
 &lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shifting my site</title>
-      <link>http://aravindreddy.org/post/shifting-my-site/</link>
-      <pubDate>Sat, 12 Aug 2017 00:22:01 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/shifting-my-site/</guid>
-      <description>&lt;p&gt;Hey folks, I thought about this a lot and finally have decided to shift my blog to Jekyll based Github pages due to a couple of reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It&amp;rsquo;s completely free(until a limit of 1GB is reached). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck.&lt;/li&gt;
-&lt;li&gt;I bought a domain name for myself - aravindreddy.org and it seems like this is the best time for me to make a switch.&lt;/li&gt;
-&lt;li&gt;According to multiple online sources, Wordpress is outdated and is a pain to maintain, especially when you want to have your own domain name and custom servers.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;So, I guess this will be one of my last posts on the Wordpress platform. Hopefully, I&amp;rsquo;ll successfully shift my all my past blog entries to my new Jekyll based, Github hosted site :)&lt;/p&gt;
 </description>
     </item>
     
