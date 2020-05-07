@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Aravind Reddy</title>
@@ -7,8 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://aravindreddy.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://aravindreddy.org/home/about/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/home/about/</guid>
+      <description>Biography Hi! I am a second-year PhD student at Northwestern University in the CS theory group very fortunate to be advised by Prof. Konstantin Makarychev and Prof. Aravindan Vijayaraghavan. Before joining Northwestern, I was an undergrad at Indian Institute of Technology Kanpur where I majored in Computer Science and Engineering, and minored in Physics.
+I am broadly interested in theoretical computer science. Presently, I am working on projects related to Approximation algorithms, Spectral graph theory, and Theoretical machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://aravindreddy.org/home/talks/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://aravindreddy.org/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://aravindreddy.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

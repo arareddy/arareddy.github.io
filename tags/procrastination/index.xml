@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Procrastination on Aravind Reddy</title>
+    <title>procrastination on Aravind Reddy</title>
     <link>http://aravindreddy.org/tags/procrastination/</link>
-    <description>Recent content in Procrastination on Aravind Reddy</description>
+    <description>Recent content in procrastination on Aravind Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Aravind Reddy</copyright>
+    <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
     <lastBuildDate>Mon, 11 Sep 2017 04:05:18 +0530</lastBuildDate>
-    <atom:link href="/tags/procrastination/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://aravindreddy.org/tags/procrastination/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Computer Networks</title>
@@ -16,8 +18,7 @@
       <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
       
       <guid>http://aravindreddy.org/post/computer-networks/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m reading a book on &lt;a href=&#34;http://www-net.cs.umass.edu/kurose/ebook/text/toc.htm&#34; target=&#34;_blank&#34;&gt;Computer Networks&lt;/a&gt; right now for a course and I feel awesome getting to know about tonnes of stuff which I&amp;rsquo;ve been using throughout my life 😄&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m reading a book on Computer Networks right now for a course and I feel awesome getting to know about tonnes of stuff which I&amp;rsquo;ve been using throughout my life 😄</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Tue, 29 Aug 2017 21:58:18 +0530</pubDate>
       
       <guid>http://aravindreddy.org/post/randomness-for-decisions/</guid>
-      <description>&lt;p&gt;I was in a dilemma today whether I should study for the Machine Learning course or whether I should study for the Coherence &amp;amp; Quantum Entanglement course in the next three hours. I was totally unable to choose between them and so a lot of my brain&amp;rsquo;s computational power was being sucked up by this decision task. I finally decided to go with Octave&amp;rsquo;s random number generator. Just used unidrnd(2) 😄&lt;/p&gt;
-</description>
+      <description>I was in a dilemma today whether I should study for the Machine Learning course or whether I should study for the Coherence &amp;amp; Quantum Entanglement course in the next three hours. I was totally unable to choose between them and so a lot of my brain&amp;rsquo;s computational power was being sucked up by this decision task. I finally decided to go with Octave&amp;rsquo;s random number generator. Just used unidrnd(2) 😄</description>
     </item>
     
     <item>
@@ -36,10 +36,7 @@
       <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
       
       <guid>http://aravindreddy.org/post/ugly-duckling-theorem/</guid>
-      <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
-
-&lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
-</description>
+      <description>Yes, I know, my last post said that I would be shifting my blog from wordpress to a Jekyll Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).</description>
     </item>
     
   </channel>

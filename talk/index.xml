@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Aravind Reddy</title>
@@ -8,76 +8,71 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://aravindreddy.org/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Space Bounded Complexity classes and Derandomization</title>
       <link>http://aravindreddy.org/talk/20191203/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 -0600</pubDate>
       
       <guid>http://aravindreddy.org/talk/20191203/</guid>
-      <description>&lt;p&gt;In this talk, we will give an introduction to Space Bounded Complexity classes and give an overview of $BPL \subseteq \text{SPACE}(\log^2 n)$ result by Nisan. For space bounded complexity classes, we will follow the &lt;a href=&#34;https://lucatrevisan.github.io/teaching/cs172-15/notenl.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Luca Trevisan and for the $BPL \subseteq \text{SPACE}(\log^2 n)$ result, we will follow the &lt;a href=&#34;http://www.cs.umd.edu/~jkatz/complexity/f11/lecture27.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Jonathan Katz.&lt;/p&gt;
-</description>
+      <description>In this talk, we will give an introduction to Space Bounded Complexity classes and give an overview of $BPL \subseteq \text{SPACE}(\log^2 n)$ result by Nisan. For space bounded complexity classes, we will follow the lecture notes by Prof. Luca Trevisan and for the $BPL \subseteq \text{SPACE}(\log^2 n)$ result, we will follow the lecture notes by Prof. Jonathan Katz.</description>
     </item>
     
     <item>
       <title>High Dimensional Expanders</title>
       <link>http://aravindreddy.org/talk/20191121/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 -0600</pubDate>
       
       <guid>http://aravindreddy.org/talk/20191121/</guid>
-      <description>&lt;p&gt;In this talk, we will give an introduction to &lt;em&gt;High Dimensional Expanders&lt;/em&gt;, an area which has seen immense interest recently from the TCS community. Specifically, we will discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_simplicial_complex&#34; target=&#34;_blank&#34;&gt;Simplicial Complexes&lt;/a&gt;, Local Spectral Expanders, and Random walks on Simplicial Complexes.&lt;/p&gt;
-</description>
+      <description>In this talk, we will give an introduction to High Dimensional Expanders, an area which has seen immense interest recently from the TCS community. Specifically, we will discuss Simplicial Complexes, Local Spectral Expanders, and Random walks on Simplicial Complexes.</description>
     </item>
     
     <item>
       <title>Cup Games</title>
       <link>http://aravindreddy.org/talk/20190821/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190821/</guid>
-      <description>&lt;p&gt;In this talk, we will provide an introduction to cup games and discuss some recent results and techniques from a &lt;a href=&#34;https://arxiv.org/abs/1904.02861&#34; target=&#34;_blank&#34;&gt;STOC 2019 paper&lt;/a&gt; by Bender et.al.&lt;/p&gt;
-</description>
+      <description>In this talk, we will provide an introduction to cup games and discuss some recent results and techniques from a STOC 2019 paper by Bender et.al.</description>
     </item>
     
     <item>
       <title>Markov Chains and Random Walks on Networks</title>
       <link>http://aravindreddy.org/talk/20190531/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 -0500</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190531/</guid>
-      <description>&lt;p&gt;The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1, 2, and 8 of the book &lt;a href=&#34;https://bookstore.ams.org/mbk-107&#34; target=&#34;_blank&#34;&gt;Markov Chains and Mixing Times&lt;/a&gt; by David Levin and Yuval Peres.&lt;/p&gt;
-</description>
+      <description>The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1, 2, and 8 of the book Markov Chains and Mixing Times by David Levin and Yuval Peres.</description>
     </item>
     
     <item>
       <title>Contrastive Unsupervised Representation Learning</title>
       <link>http://aravindreddy.org/talk/20190522/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 21 May 2019 00:00:00 -0500</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190522/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from one of Arora et.al&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2019/03/19/CURL/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and their paper &lt;a href=&#34;https://arxiv.org/abs/1902.09229&#34; target=&#34;_blank&#34;&gt;A Theoretical Analysis of Contrastive Unsupervised Representation Learning&lt;/a&gt;. The first time I came across this paper was through a &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org/speaker/sanjeev-arora/&#34; target=&#34;_blank&#34;&gt;plenary talk&lt;/a&gt; given by Sanjeev Arora at &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org&#34; target=&#34;_blank&#34;&gt;ALT 2019&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>The content for the talk was mostly taken from one of Arora et.al&amp;rsquo;s blog posts on offconvex.org and their paper A Theoretical Analysis of Contrastive Unsupervised Representation Learning. The first time I came across this paper was through a plenary talk given by Sanjeev Arora at ALT 2019.</description>
     </item>
     
     <item>
       <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
       <link>http://aravindreddy.org/talk/20190214/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0600</pubDate>
       
       <guid>http://aravindreddy.org/talk/20190214/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled &lt;a href=&#34;https://arxiv.org/abs/1305.1681&#34; target=&#34;_blank&#34;&gt;Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut&lt;/a&gt; by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by &lt;a href=&#34;https://youtu.be/QQPFAkNAhUE&#34; target=&#34;_blank&#34;&gt;Tim Roughgarden&amp;rsquo;s lecture&lt;/a&gt; on the same topic.&lt;/p&gt;
-</description>
+      <description>The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by Tim Roughgarden&amp;rsquo;s lecture on the same topic.</description>
     </item>
     
     <item>
       <title>Generalization theory for Deep Learning</title>
       <link>http://aravindreddy.org/talk/20181025/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 -0500</pubDate>
       
       <guid>http://aravindreddy.org/talk/20181025/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from one of Sanjeev Arora&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2017/12/08/generalization1/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and &lt;a href=&#34;https://arxiv.org/abs/1611.03530&#34; target=&#34;_blank&#34;&gt;Understanding deep learning requires re-thinking generalization&lt;/a&gt;, which won a Best Paper award at ICLR 2017.&lt;/p&gt;
-</description>
+      <description>The content for the talk was mostly taken from one of Sanjeev Arora&amp;rsquo;s blog posts on offconvex.org and Understanding deep learning requires re-thinking generalization, which won a Best Paper award at ICLR 2017.</description>
     </item>
     
   </channel>

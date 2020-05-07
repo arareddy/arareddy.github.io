@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aravind Reddy on Aravind Reddy</title>
@@ -7,159 +6,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Space Bounded Complexity classes and Derandomization</title>
-      <link>http://aravindreddy.org/talk/20191203/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0530</pubDate>
+      <title>Posts</title>
+      <link>http://aravindreddy.org/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://aravindreddy.org/talk/20191203/</guid>
-      <description>&lt;p&gt;In this talk, we will give an introduction to Space Bounded Complexity classes and give an overview of $BPL \subseteq \text{SPACE}(\log^2 n)$ result by Nisan. For space bounded complexity classes, we will follow the &lt;a href=&#34;https://lucatrevisan.github.io/teaching/cs172-15/notenl.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Luca Trevisan and for the $BPL \subseteq \text{SPACE}(\log^2 n)$ result, we will follow the &lt;a href=&#34;http://www.cs.umd.edu/~jkatz/complexity/f11/lecture27.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; by Prof. Jonathan Katz.&lt;/p&gt;
-</description>
+      <guid>http://aravindreddy.org/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>High Dimensional Expanders</title>
-      <link>http://aravindreddy.org/talk/20191121/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0530</pubDate>
+      <title>Publications</title>
+      <link>http://aravindreddy.org/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://aravindreddy.org/talk/20191121/</guid>
-      <description>&lt;p&gt;In this talk, we will give an introduction to &lt;em&gt;High Dimensional Expanders&lt;/em&gt;, an area which has seen immense interest recently from the TCS community. Specifically, we will discuss &lt;a href=&#34;https://en.wikipedia.org/wiki/Abstract_simplicial_complex&#34; target=&#34;_blank&#34;&gt;Simplicial Complexes&lt;/a&gt;, Local Spectral Expanders, and Random walks on Simplicial Complexes.&lt;/p&gt;
-</description>
+      <guid>http://aravindreddy.org/publication/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Cup Games</title>
-      <link>http://aravindreddy.org/talk/20190821/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0530</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://aravindreddy.org/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://aravindreddy.org/talk/20190821/</guid>
-      <description>&lt;p&gt;In this talk, we will provide an introduction to cup games and discuss some recent results and techniques from a &lt;a href=&#34;https://arxiv.org/abs/1904.02861&#34; target=&#34;_blank&#34;&gt;STOC 2019 paper&lt;/a&gt; by Bender et.al.&lt;/p&gt;
-</description>
+      <guid>http://aravindreddy.org/talk/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Markov Chains and Random Walks on Networks</title>
-      <link>http://aravindreddy.org/talk/20190531/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0530</pubDate>
+      <title>Projects</title>
+      <link>http://aravindreddy.org/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://aravindreddy.org/talk/20190531/</guid>
-      <description>&lt;p&gt;The talk included 2 parts: A general introduction to Finite Markov Chains, and an introduction to Random walks on Networks(with their connection to electrical networks). The content for the talk was mostly from Chapters 1, 2, and 8 of the book &lt;a href=&#34;https://bookstore.ams.org/mbk-107&#34; target=&#34;_blank&#34;&gt;Markov Chains and Mixing Times&lt;/a&gt; by David Levin and Yuval Peres.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contrastive Unsupervised Representation Learning</title>
-      <link>http://aravindreddy.org/talk/20190522/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/talk/20190522/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from one of Arora et.al&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2019/03/19/CURL/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and their paper &lt;a href=&#34;https://arxiv.org/abs/1902.09229&#34; target=&#34;_blank&#34;&gt;A Theoretical Analysis of Contrastive Unsupervised Representation Learning&lt;/a&gt;. The first time I came across this paper was through a &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org/speaker/sanjeev-arora/&#34; target=&#34;_blank&#34;&gt;plenary talk&lt;/a&gt; given by Sanjeev Arora at &lt;a href=&#34;http://alt2019.algorithmiclearningtheory.org&#34; target=&#34;_blank&#34;&gt;ALT 2019&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bilu-Linial Stable instances of Graph Partioniong problems</title>
-      <link>http://aravindreddy.org/talk/20190214/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/talk/20190214/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from the SODA&amp;rsquo;14 paper titled &lt;a href=&#34;https://arxiv.org/abs/1305.1681&#34; target=&#34;_blank&#34;&gt;Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut&lt;/a&gt; by Makarychev, Makarychev, and Vijayaraghavan. The presentation style and some of the examples were inspired by &lt;a href=&#34;https://youtu.be/QQPFAkNAhUE&#34; target=&#34;_blank&#34;&gt;Tim Roughgarden&amp;rsquo;s lecture&lt;/a&gt; on the same topic.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why are there so few women in science?</title>
-      <link>http://aravindreddy.org/post/gender101/</link>
-      <pubDate>Wed, 14 Nov 2018 19:15:59 -0600</pubDate>
-      
-      <guid>http://aravindreddy.org/post/gender101/</guid>
-      <description>&lt;p&gt;I just read an &lt;a href=&#34;https://www.nytimes.com/2013/10/06/magazine/why-are-there-still-so-few-women-in-science.html&#34; target=&#34;_blank&#34;&gt;NYTimes article&lt;/a&gt; titled &amp;ldquo;Why are there Still So Few Women in Science?&amp;rdquo;. I thought that I had an idea about gender bias in academia but I was very wrong. This article definitely made an impact on me and I highly recommend reading the entire article.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Generalization theory for Deep Learning</title>
-      <link>http://aravindreddy.org/talk/20181025/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/talk/20181025/</guid>
-      <description>&lt;p&gt;The content for the talk was mostly taken from one of Sanjeev Arora&amp;rsquo;s &lt;a href=&#34;http://www.offconvex.org/2017/12/08/generalization1/&#34; target=&#34;_blank&#34;&gt;blog posts&lt;/a&gt; on offconvex.org and &lt;a href=&#34;https://arxiv.org/abs/1611.03530&#34; target=&#34;_blank&#34;&gt;Understanding deep learning requires re-thinking generalization&lt;/a&gt;, which won a Best Paper award at ICLR 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ascending the Categorial Heights!</title>
-      <link>http://aravindreddy.org/post/category-starter/</link>
-      <pubDate>Tue, 03 Apr 2018 15:57:55 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/category-starter/</guid>
-      <description>&lt;p&gt;After hearing a lot about Category Theory from &lt;a href=&#34;https://mittaltushant.github.io&#34; target=&#34;_blank&#34;&gt;Tushant&lt;/a&gt;, I wanted to know more about it and started reading &lt;a href=&#34;http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf&#34; target=&#34;_blank&#34;&gt;Category Theory - A Gentle Introduction&lt;/a&gt; by Peter Smith. It feels great till where I&amp;rsquo;ve read.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Indian Classical Music</title>
-      <link>http://aravindreddy.org/post/indian_classical_first/</link>
-      <pubDate>Fri, 19 Jan 2018 19:55:14 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/indian_classical_first/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently started appreciating Indian Classical music. Many thanks to &lt;a href=&#34;https://mittaltushant.github.io&#34; target=&#34;_blank&#34;&gt;Tushant&lt;/a&gt; for introducing me to this wonderful art form. I recently had the oppurtunity to attend a sarod recital by Pandit Abhishek Lahiri accompanied by Soumen Nandy on the tabla. The event was organised by SPIC MACAY, IITK. &lt;img src=&#34;http://aravindreddy.org/sarod_spicmacay.jpg&#34; alt=&#34;image alt text&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advice for the budding theorist</title>
-      <link>http://aravindreddy.org/post/advice-budding-theorist/</link>
-      <pubDate>Mon, 27 Nov 2017 05:20:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/advice-budding-theorist/</guid>
-      <description>&lt;p&gt;Check out &lt;a href=&#34;https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; interesting link.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computer Networks</title>
-      <link>http://aravindreddy.org/post/computer-networks/</link>
-      <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/computer-networks/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m reading a book on &lt;a href=&#34;http://www-net.cs.umass.edu/kurose/ebook/text/toc.htm&#34; target=&#34;_blank&#34;&gt;Computer Networks&lt;/a&gt; right now for a course and I feel awesome getting to know about tonnes of stuff which I&amp;rsquo;ve been using throughout my life 😄&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emmy Noether</title>
-      <link>http://aravindreddy.org/post/emmy-noether/</link>
-      <pubDate>Mon, 04 Sep 2017 23:53:36 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/emmy-noether/</guid>
-      <description>&lt;p&gt;While I was reading about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Translation_operator_(quantum_mechanics)&#34; target=&#34;_blank&#34;&gt;Translation operator&lt;/a&gt; today, I stumbled upon the wiki for &lt;a href=&#34;https://en.wikipedia.org/wiki/Emmy_Noether&#34; target=&#34;_blank&#34;&gt;Emmy Noether&lt;/a&gt; - famous for &amp;ldquo;Noether&amp;rsquo;s theorem&amp;rdquo; which tells us that conservation laws follow from the symmetry properties of nature. It was interesting to note that she had worked at a German institute for seven years without pay because at that time(~1910), women were largely excluded from academic positions. This was comforting to me because I was feeling sad about the fact that I only started learning CS after I started my undergrad. It made me feel that I should accept the fact that nobody is on an equal footing when it comes to anything in life and this is what precisely defines our distinct perspective of life.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Randomness for Decisions</title>
-      <link>http://aravindreddy.org/post/randomness-for-decisions/</link>
-      <pubDate>Tue, 29 Aug 2017 21:58:18 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/randomness-for-decisions/</guid>
-      <description>&lt;p&gt;I was in a dilemma today whether I should study for the Machine Learning course or whether I should study for the Coherence &amp;amp; Quantum Entanglement course in the next three hours. I was totally unable to choose between them and so a lot of my brain&amp;rsquo;s computational power was being sucked up by this decision task. I finally decided to go with Octave&amp;rsquo;s random number generator. Just used unidrnd(2) 😄&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ugly Duckling theorem</title>
-      <link>http://aravindreddy.org/post/ugly-duckling-theorem/</link>
-      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/post/ugly-duckling-theorem/</guid>
-      <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
-
-&lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
-</description>
+      <guid>http://aravindreddy.org/project/</guid>
+      <description></description>
     </item>
     
   </channel>

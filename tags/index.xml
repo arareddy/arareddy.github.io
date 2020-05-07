@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aravind Reddy</title>
@@ -6,31 +6,14 @@
     <description>Recent content in Tags on Aravind Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Aravind Reddy</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 04:05:18 +0530</lastBuildDate>
+    
+	<atom:link href="http://aravindreddy.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://aravindreddy.org/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nerd Interest</title>
-      <link>http://aravindreddy.org/tags/nerd-interest/</link>
-      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/nerd-interest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Procrastination</title>
+      <title>procrastination</title>
       <link>http://aravindreddy.org/tags/procrastination/</link>
       <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
       
@@ -39,11 +22,56 @@
     </item>
     
     <item>
-      <title>Random Advice</title>
+      <title>random observations</title>
+      <link>http://aravindreddy.org/tags/random-observations/</link>
+      <pubDate>Mon, 04 Sep 2017 23:53:36 +0530</pubDate>
+      
+      <guid>http://aravindreddy.org/tags/random-observations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nerd interest</title>
+      <link>http://aravindreddy.org/tags/nerd-interest/</link>
+      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/tags/nerd-interest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random advice</title>
       <link>http://aravindreddy.org/tags/random-advice/</link>
       <pubDate>Thu, 29 Jun 2017 00:36:51 +0530</pubDate>
       
       <guid>http://aravindreddy.org/tags/random-advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://aravindreddy.org/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>http://aravindreddy.org/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demo</title>
+      <link>http://aravindreddy.org/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://aravindreddy.org/tags/demo/</guid>
       <description></description>
     </item>
     
