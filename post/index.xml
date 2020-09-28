@@ -1,134 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aravind Reddy</title>
-    <link>http://aravindreddy.org/post/</link>
-    <description>Recent content in Posts on Aravind Reddy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="http://aravindreddy.org/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Why are there so few women in science?</title>
-      <link>http://aravindreddy.org/post/gender101/</link>
-      <pubDate>Wed, 14 Nov 2018 19:15:59 -0600</pubDate>
-      
-      <guid>http://aravindreddy.org/post/gender101/</guid>
-      <description>I just read an NYTimes article titled &amp;ldquo;Why are there Still So Few Women in Science?&amp;quot;. I thought that I had an idea about gender bias in academia but I was very wrong. This article definitely made an impact on me and I highly recommend reading the entire article.</description>
-    </item>
-    
-    <item>
-      <title>Ascending the Categorial Heights!</title>
-      <link>http://aravindreddy.org/post/category-starter/</link>
-      <pubDate>Tue, 03 Apr 2018 15:57:55 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/category-starter/</guid>
-      <description>After hearing a lot about Category Theory from Tushant, I wanted to know more about it and started reading Category Theory - A Gentle Introduction by Peter Smith. It feels great till where I&amp;rsquo;ve read.</description>
-    </item>
-    
-    <item>
-      <title>Indian Classical Music</title>
-      <link>http://aravindreddy.org/post/indian_classical_first/</link>
-      <pubDate>Fri, 19 Jan 2018 19:55:14 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/indian_classical_first/</guid>
-      <description>I&amp;rsquo;ve recently started appreciating Indian Classical music. Many thanks to Tushant for introducing me to this wonderful art form. I recently had the oppurtunity to attend a sarod recital by Pandit Abhishek Lahiri accompanied by Soumen Nandy on the tabla. The event was organised by SPIC MACAY, IITK. </description>
-    </item>
-    
-    <item>
-      <title>Advice for the budding theorist</title>
-      <link>http://aravindreddy.org/post/advice-budding-theorist/</link>
-      <pubDate>Mon, 27 Nov 2017 05:20:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/advice-budding-theorist/</guid>
-      <description>Check out this interesting link.</description>
-    </item>
-    
-    <item>
-      <title>Computer Networks</title>
-      <link>http://aravindreddy.org/post/computer-networks/</link>
-      <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/computer-networks/</guid>
-      <description>I&amp;rsquo;m reading a book on Computer Networks right now for a course and I feel awesome getting to know about tonnes of stuff which I&amp;rsquo;ve been using throughout my life 😄</description>
-    </item>
-    
-    <item>
-      <title>Emmy Noether</title>
-      <link>http://aravindreddy.org/post/emmy-noether/</link>
-      <pubDate>Mon, 04 Sep 2017 23:53:36 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/emmy-noether/</guid>
-      <description>While I was reading about the Translation operator today, I stumbled upon the wiki for Emmy Noether - famous for &amp;ldquo;Noether&amp;rsquo;s theorem&amp;rdquo; which tells us that conservation laws follow from the symmetry properties of nature. It was interesting to note that she had worked at a German institute for seven years without pay because at that time(~1910), women were largely excluded from academic positions. This was comforting to me because I was feeling sad about the fact that I only started learning CS after I started my undergrad.</description>
-    </item>
-    
-    <item>
-      <title>Randomness for Decisions</title>
-      <link>http://aravindreddy.org/post/randomness-for-decisions/</link>
-      <pubDate>Tue, 29 Aug 2017 21:58:18 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/randomness-for-decisions/</guid>
-      <description>I was in a dilemma today whether I should study for the Machine Learning course or whether I should study for the Coherence &amp;amp; Quantum Entanglement course in the next three hours. I was totally unable to choose between them and so a lot of my brain&amp;rsquo;s computational power was being sucked up by this decision task. I finally decided to go with Octave&amp;rsquo;s random number generator. Just used unidrnd(2) 😄</description>
-    </item>
-    
-    <item>
-      <title>Ugly Duckling theorem</title>
-      <link>http://aravindreddy.org/post/ugly-duckling-theorem/</link>
-      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/post/ugly-duckling-theorem/</guid>
-      <description>Yes, I know, my last post said that I would be shifting my blog from wordpress to a Jekyll Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).</description>
-    </item>
-    
-    <item>
-      <title>Shifting my site</title>
-      <link>http://aravindreddy.org/post/shifting-my-site/</link>
-      <pubDate>Sat, 12 Aug 2017 00:22:01 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/shifting-my-site/</guid>
-      <description>Hey folks, I thought about this a lot and finally have decided to shift my blog to Jekyll based Github pages due to a couple of reasons:
- It&amp;rsquo;s completely free(until a limit of 1GB is reached). Yeah, wordpress is free but it serves ads and as everybody knows, ads suck. I bought a domain name for myself - aravindreddy.org and it seems like this is the best time for me to make a switch.</description>
-    </item>
-    
-    <item>
-      <title>500 Mile Email</title>
-      <link>http://aravindreddy.org/post/500-mile-email/</link>
-      <pubDate>Fri, 07 Jul 2017 00:28:00 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/500-mile-email/</guid>
-      <description>This is epic stuff!! You should surely check it out.</description>
-    </item>
-    
-    <item>
-      <title>GRE Craxx Algo</title>
-      <link>http://aravindreddy.org/post/gre-craxx-algo/</link>
-      <pubDate>Thu, 29 Jun 2017 00:36:51 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/gre-craxx-algo/</guid>
-      <description>Since I was probably the first person in my batch of ~830 students at IIT Kanpur to have taken the GRE, I keep receiving a barrage of questions from my both my batchmates and juniors regarding how to &amp;lsquo;crack&amp;rsquo; the GRE. So, here goes the Algo which I employed to improve my score from 324 to 332 within ~10 days of preparation while studying seriously(sorta) for around 3-4 hours a day:</description>
-    </item>
-    
-    <item>
-      <title>The Relative Age Effect</title>
-      <link>http://aravindreddy.org/post/the-relative-age-effect/</link>
-      <pubDate>Wed, 24 May 2017 00:50:42 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/the-relative-age-effect/</guid>
-      <description>Today, I came across a very interesting article on Wikipedia: Relative age effect. It looks like I have been positively affected by it(I was born in July and school sessions generally start in June in India) and I&amp;rsquo;m sorry for the millions of people negatively affected by it.</description>
-    </item>
-    
-    <item>
-      <title>Goldwasser _/\_</title>
-      <link>http://aravindreddy.org/post/goldwasser/</link>
-      <pubDate>Tue, 14 Feb 2017 00:54:30 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/post/goldwasser/</guid>
-      <description>Last semester, I stumbled upon &amp;lsquo;interactive proofs&amp;rsquo; and read the word &amp;lsquo;Goldwasser&amp;rsquo; as one of the authors of a paper related to interactive proofs(turns out she was one of the inventors of interactive proofs 😜 ). Although there were other authors as well, this particular name remained stuck in my mind(south Indians have traditionally been obsessed with gold). Today, after some arbitrary internet surfing, I read about Prof. Shafi Goldwasser here.</description>
-    </item>
+    <title>Posts | Academic</title>
+    <link>https://aravindreddy.org/post/</link>
+      <atom:link href="https://aravindreddy.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Aravind Reddy</copyright>
+    <image>
+      <url>https://aravindreddy.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://aravindreddy.org/post/</link>
+    </image>
     
   </channel>
 </rss>

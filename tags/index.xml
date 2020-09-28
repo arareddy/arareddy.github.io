@@ -1,79 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Aravind Reddy</title>
-    <link>http://aravindreddy.org/tags/</link>
-    <description>Recent content in Tags on Aravind Reddy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
-    <lastBuildDate>Mon, 11 Sep 2017 04:05:18 +0530</lastBuildDate>
-    
-	<atom:link href="http://aravindreddy.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>procrastination</title>
-      <link>http://aravindreddy.org/tags/procrastination/</link>
-      <pubDate>Mon, 11 Sep 2017 04:05:18 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/procrastination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random observations</title>
-      <link>http://aravindreddy.org/tags/random-observations/</link>
-      <pubDate>Mon, 04 Sep 2017 23:53:36 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/random-observations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nerd interest</title>
-      <link>http://aravindreddy.org/tags/nerd-interest/</link>
-      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/nerd-interest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random advice</title>
-      <link>http://aravindreddy.org/tags/random-advice/</link>
-      <pubDate>Thu, 29 Jun 2017 00:36:51 +0530</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/random-advice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://aravindreddy.org/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>http://aravindreddy.org/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>http://aravindreddy.org/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/tags/demo/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Academic</title>
+    <link>https://aravindreddy.org/tags/</link>
+      <atom:link href="https://aravindreddy.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Aravind Reddy</copyright>
+    <image>
+      <url>https://aravindreddy.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://aravindreddy.org/tags/</link>
+    </image>
     
   </channel>
 </rss>

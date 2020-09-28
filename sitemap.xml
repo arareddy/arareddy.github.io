@@ -1,371 +1,41 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/</loc>
-      <lastmod>2019-12-03T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20191203/</loc>
-      <lastmod>2019-12-03T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/author/aravind-reddy/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20191121/</loc>
-      <lastmod>2019-11-21T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/authors/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20190821/</loc>
-      <lastmod>2019-08-21T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/categories/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20190531/</loc>
-      <lastmod>2019-05-31T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/post/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20190522/</loc>
-      <lastmod>2019-05-21T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/publication_types/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20190214/</loc>
-      <lastmod>2019-02-14T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/publication/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/gender101/</loc>
-      <lastmod>2018-11-14T19:15:59-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/talk/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/20181025/</loc>
-      <lastmod>2018-10-25T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/category-starter/</loc>
-      <lastmod>2018-04-03T15:57:55+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/indian_classical_first/</loc>
-      <lastmod>2018-01-19T19:55:14+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/advice-budding-theorist/</loc>
-      <lastmod>2017-11-27T05:20:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/computer-networks/</loc>
-      <lastmod>2017-09-11T04:05:18+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/procrastination/</loc>
-      <lastmod>2017-09-11T04:05:18+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/</loc>
-      <lastmod>2017-09-11T04:05:18+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/emmy-noether/</loc>
-      <lastmod>2017-09-04T23:53:36+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/random-observations/</loc>
-      <lastmod>2017-09-04T23:53:36+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/randomness-for-decisions/</loc>
-      <lastmod>2017-08-29T21:58:18+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/nerd-interest/</loc>
-      <lastmod>2017-08-21T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/ugly-duckling-theorem/</loc>
-      <lastmod>2017-08-21T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/shifting-my-site/</loc>
-      <lastmod>2017-08-12T00:22:01+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/500-mile-email/</loc>
-      <lastmod>2017-07-07T00:28:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/gre-craxx-algo/</loc>
-      <lastmod>2017-06-29T00:36:51+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/random-advice/</loc>
-      <lastmod>2017-06-29T00:36:51+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/the-relative-age-effect/</loc>
-      <lastmod>2017-05-24T00:50:42+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/goldwasser/</loc>
-      <lastmod>2017-02-14T00:54:30+05:30</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication_types/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://aravindreddy.org/categories/</loc>
-    </url>
-    
+  <url>
+    <loc>https://aravindreddy.org/tags/</loc>
+  </url>
   
 </urlset>

@@ -1,49 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aravind Reddy on Aravind Reddy</title>
-    <link>http://aravindreddy.org/</link>
-    <description>Recent content in Aravind Reddy on Aravind Reddy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Aravind Reddy</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 -0600</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Posts</title>
-      <link>http://aravindreddy.org/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
-      
-      <guid>http://aravindreddy.org/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://aravindreddy.org/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>http://aravindreddy.org/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://aravindreddy.org/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://aravindreddy.org/project/</guid>
-      <description></description>
-    </item>
+    <title>Academic</title>
+    <link>https://aravindreddy.org/</link>
+      <atom:link href="https://aravindreddy.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Aravind Reddy</copyright>
+    <image>
+      <url>https://aravindreddy.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic</title>
+      <link>https://aravindreddy.org/</link>
+    </image>
     
   </channel>
 </rss>
